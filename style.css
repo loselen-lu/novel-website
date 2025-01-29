@@ -1,0 +1,60 @@
+.libre-baskerville-regular {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+  
+.libre-baskerville-bold {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+  
+.libre-baskerville-regular-italic {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: italic;
+}  
+
+html {
+    font-size: 26px;
+}
+
+body {
+    background-color: #e8dbc2;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #161616;
+}
+
+h1, p {
+    margin-right: 2rem;
+    margin-left: 2rem;
+}
+
+h1 {
+    margin-top: 10rem;
+    font-size: 2rem;
+    line-height: 3rem;
+    font-weight: 400;
+}
+
+p {
+    margin-top: 2rem;
+    font-size: 1rem;
+    line-height: 1.75rem;
+}
+
+em {
+    font-style: italic;
+}
+
+a {
+    text-decoration: none;
+    color: #af3500;
+}
+
+.big-space {
+    height: 10rem;
+}
